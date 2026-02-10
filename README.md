@@ -34,4 +34,4 @@ curl -X DELETE http://shape-app-alb-479140046.us-east-1.elb.amazonaws.com:6767/s
 
 
 #Proyecto grupal 
-# https://github.com/mapinedaf/Api_shapes/releases/download/jar/api-shapes.jar
+# https://github.com/FurionDust/Api_shapes/releases/download/jar/api-shapes.jar
