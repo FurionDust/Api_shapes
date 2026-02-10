@@ -1,0 +1,10 @@
+aws_region         = "us-east-1"
+ec2_instance_type  = "t3.small"
+rds_instance_type  = "db.t3.micro"
+db_username        = "postgres"
+db_password        = "postgres"
+key_pair_name      = ""  
+min_instances      = 2
+max_instances      = 4
+desired_instances  = 2
+owner_tag          = "grupal"
